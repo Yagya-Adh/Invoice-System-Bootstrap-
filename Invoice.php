@@ -94,11 +94,11 @@
                         <tbody>
                             <tr>
                                 <td><input type="checkbox" /></td>
-                                <td><input class="form-control" type="text" placeholder="1234"></td>
-                                <td><input class="form-control" type="text" placeholder="iphone"></td>
-                                <td><input class="form-control" type="text" placeholder="12.00"></td>
-                                <td><input class="form-control" type="text" placeholder="250000.00"></td>
-                                <td><input class="form-control" type="text" placeholder="3000000.00"></td>
+                                <td><input class="form-control" type="text" placeholder="1234" /></td>
+                                <td><input class="form-control" type="text" placeholder="iphone" /></td>
+                                <td><input class="form-control" type="text" placeholder="12.00" /></td>
+                                <td><input class="form-control" type="text" placeholder="250000.00" /></td>
+                                <td><input class="form-control" type="text" placeholder="3000000.00" /></td>
                             </tr>
                         </tbody>
                     </table>
