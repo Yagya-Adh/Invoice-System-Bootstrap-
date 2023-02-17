@@ -83,7 +83,7 @@
                     <table class="table table-border ">
                         <thead>
                             <tr>
-                                <th><input type="checkbox"> </th>
+                                <th><input type="checkbox" /> </th>
                                 <th>Item No</th>
                                 <th>Item Name</th>
                                 <th>Quantity</th>
