@@ -23,9 +23,11 @@
     <div class="container">
 
         <span class="text text-secondary fs-1 d-flex justify-content-center m-5">Invoice System with php & pdo </span>
-        <div class="container col-md-6 justify-content-center  align-self-center ">
 
-            <div class="card p-2  d-flex">
+
+        <div class="container col-md-7 col-lg-6">
+
+            <div class="card p-2 m-2">
                 <div class="card-header"> Invoice User Login: </div>
 
                 <div class="card-body">
